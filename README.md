@@ -23,7 +23,7 @@
 ### **Сборка проекта**
 1. Склонируйте репозиторий:
     ```bash
-    git clone https://github.com/ваш_пользователь/hamming-code.git
+    git clone https://github.com/AkhlilloevUlughbek/Hamming84.git
     cd hamming-code
     ```
 2. Создайте папку для сборки и перейдите в неё:
